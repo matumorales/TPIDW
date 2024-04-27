@@ -1,0 +1,19 @@
+{
+  "name": "idw",
+  "version": "1.0.0",
+  "description": "Trabajo para Int al Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matumorales/tpIDW.git"
+  },
+  "author": "Morales Ignacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matumorales/tpIDW/issues"
+  },
+  "homepage": "https://github.com/matumorales/tpIDW#readme"
+}
